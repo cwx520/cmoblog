@@ -1,57 +1,18 @@
-* [本项目](/docsify/ex)
+<!-- * [本项目](/docsify/ex) -->
 
-* 后端
-  * [线程池的正确创建](/java/threadpool)
-  * [aio,bio,nio](/java/io)
-  * [spring源码解析](/java/spring)
-  * [springmvc源码解析](/java/springmvc)
-  * [常见的设计模式](/java/designpattern)
-  * [maven常用操作问题解决](/java/maven)
-  * [gradle的概念及使用](/java/gradle)
-
-* 前端
-  * [es6](/javascript/es6)
-  * [ts](/javascript/ts)
-  * [前端布局](/javascript/bj)
-  * [nodejs多版本兼容及npm下载位置更改](/javascript/nodeall)
-  * [nodejs学习](/javascript/node)
-  * [electron](/javascript/electron)
-
-* 中间件
-  * [redis](/mw/redis)
-
-* 数据库相关
-  * [函数](/dbs/function)
-  * [mysql](/dbs/mysql)
-  * [oracle](/dbs/oracle)
-  * [powerdesign](/dbs/powerdesign)
-
-* 服务器
-  * [tomcat源码解析](/servers/tomcat)
-  * [nginx的配置及优化](/servers/nginx)
-
-* 持续集成
-  * [docker](/ci/docker)
-  * [elk](/ci/elk)
-  * [jenkins](/ci/jenkins)
-  * [k8s](/ci/k8s)
-  * [kubesphere](/ci/kubesphere)
-  * [harbor](/ci/harbor)
-
-* 其它
-  * [frp内网穿透](/other/frp)
-  * [log4j2 JNDI注入漏洞](/other/log4j2jndi)
-  * [关于druid连接池的一些探究](/other/druid)
-  * [centos的常用操作](/other/centos)
-  * [git的基本使用及配置](/other/git)
-  * [知识概念整理](/other/knowledge )
-  * [乌班图相关](/other/ubuntu)
-  * [acme.sh](/other/acme)
-  * [开发技巧](/other/ds)
-  * [区块链学习](/other/blockchain)
-  * [电脑控制手机的技巧](/other/vysor)
-  * [DDNS及如何利用cloudflare实现服务器隐藏和突破80及443封锁](/other/ddns)
-  * [关于利用shadowsock科学上网及如何使得LINUX科学上网](/other/ss)
+* markdown示例
+  * [引用图片](/markdown示例/引用图片)
+  * [引用代码](/markdown示例/引用代码)
+  * [引用链接](/markdown示例/引用链接)
+  * [引用区块](/markdown示例/引用区块)
+  * [制作表格](/markdown示例/制作表格)
+  
+* docsify示例
+  * [Demo](/docsify示例/Demo)
+  * [引用代码](/docsify示例/引用代码)
+  * [引用链接](/docsify示例/引用链接)
+  * [引用区块](/docsify示例/引用区块)
+  * [制作表格](/docsify示例/制作表格)
   
 * [作者相关](#Introduction)
   
