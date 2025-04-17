@@ -8,8 +8,8 @@
   * [制作表格](/markdown示例/制作表格)
   
 * docsify示例
-  * [Demo](/docsify示例/Demo)
-  * [引用代码](/docsify示例/引用代码)
+  * [Demo1](/docsify示例/Demo1)
+  * [Demo2](/docsify示例/Demo2)
   * [引用链接](/docsify示例/引用链接)
   * [引用区块](/docsify示例/引用区块)
   * [制作表格](/docsify示例/制作表格)
